@@ -17,13 +17,14 @@ They reinforced the plant's defenses and erected an impenetrable force field aro
 
 Nuclear plant is loaded with full of radioactive stuff and the green color is the schema of the radioactive liquid that can be very harmfull This radioactive liquid can spread quickly and contaminate the environment this is the thing that aliens want 
 
-<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/5fa9348f-a6c4-4bbe-a554-970e9d2be338" alt="Logo" width="850" /></h1>
+![6](https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/d68fdb85-96ab-4de9-bbf5-8104548cd799)
 
 Nuclear plant has the large passage the aliens. He is fighting bravely in order to protect the nuclear plant and the people living nearby. The aliens are determined to take over the nuclear plant, but he is determined to stop them. He is risking his life to protect his people and the nuclear plant. He must succeed or all will be lost.
 
 Recently, Dr. Leon was working on a gun with all the powerful technology that can handle anything ,with that gun and full of courage he loaded the gun and leaved the control room to fight against the aliens alone . He was the only one who can save the town and the world from the aliens. He was determined to protect the people he cared about and the world from the aliens. He knew that he could be the one to make a difference. He held the gun tightly and marched forward to face the aliens.
 
-<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/e25488c4-efab-4c29-93b4-3d1e2a0053c0" alt="Logo" width="850" /></h1>
+
+![7](https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/dc995560-fa1e-4e28-91f9-121008781f58)
 
 Dr. Leon with his armor under his coat, the weapons and the harshless loaded gun. He was ready to protect the people of the city from the evil forces that were coming. He had to be prepared for everything, even if it meant risking his own life. He was determined to save the town  
 
