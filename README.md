@@ -6,6 +6,8 @@
 <h2> Story⚡</h2>
 Once upon a time, in the peaceful town of Oakville, renowned scientist Dr.Leon🔬 was hard at work at the local nuclear power plant with the full of madness to his work and inventing the outstanding stuff . Driven by his passion for sustainable energy, he had dedicated his life to ensuring the safe operation of the plant and exploring innovative ways to harness nuclear power.
 
+
+
 One evening, as the sun🌞 began to set, a series of strange lights appeared in the sky above Oakville. Within moments, the lights transformed into alien spacecraft🛸, coming towards the town. Panic spread among the townspeople, and chaos ensued.
 
 He swiftly sprang into action, rushing to the central control room of the nuclear plant. There, he was thiking what to do now?
