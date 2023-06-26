@@ -23,8 +23,7 @@ Nuclear plant has the large passage the aliens. He is fighting bravely in order 
 
 Recently, Dr. Leon was working on a gun with all the powerful technology that can handle anything ,with that gun and full of courage he loaded the gun and leaved the control room to fight against the aliens alone . He was the only one who can save the town and the world from the aliens. He was determined to protect the people he cared about and the world from the aliens. He knew that he could be the one to make a difference. He held the gun tightly and marched forward to face the aliens.
 
-
-![7](https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/dc995560-fa1e-4e28-91f9-121008781f58)
+![8](https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/055051a4-5525-42de-b4cc-c1bae55a11e5)
 
 Dr. Leon with his armor under his coat, the weapons and the harshless loaded gun. He was ready to protect the people of the city from the evil forces that were coming. He had to be prepared for everything, even if it meant risking his own life. He was determined to save the town  
 
