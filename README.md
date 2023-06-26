@@ -1,8 +1,7 @@
 
 <h1 align="center" >The Mad Doctor Game🕹️🌀 </h1>
 
-
-<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/11cbd8c1-16d7-4385-99a4-dc5f4b27e88a" alt="Logo" width="850" /></h1>
+<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/67ea9dd6-c2e1-4b5c-9bed-9b5a88b6e29f" alt="Logo" width="850" /></h1>
 
 <h2> Story⚡</h2>
 Once upon a time, in the peaceful town of Oakville, renowned scientist Dr.Leon🔬 was hard at work at the local nuclear power plant with the full of madness to his work and inventing the outstanding stuff . Driven by his passion for sustainable energy, he had dedicated his life to ensuring the safe operation of the plant and exploring innovative ways to harness nuclear power.
@@ -29,7 +28,6 @@ Recently, Dr. Leon was working on a gun with all the powerful technology that ca
 Dr. Leon with his armor under his coat, the weapons and the harshless loaded gun. He was ready to protect the people of the city from the evil forces that were coming. He had to be prepared for everything, even if it meant risking his own life. He was determined to save the town  
 
 All the aliens saw Dr.Leon all of the were heading toward him to kill will he going to survive? In the game, you must fight against all the alien enemies to save the nuclear power plant and the town.
-
 
 
 <h2> Do you want to download the game? 💫 </h2>
