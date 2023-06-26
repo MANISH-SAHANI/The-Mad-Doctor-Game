@@ -10,13 +10,9 @@ Once upon a time, in the peaceful town of Oakville, renowned scientist Dr.Leon w
 
 One evening, as the sun🌞 began to set, a series of strange lights appeared in the sky above Oakville. Within moments, the lights transformed into alien spacecraft🛸, coming towards the town. Panic spread among the townspeople, and chaos ensued.
 
-He swiftly sprang into action, rushing to the central control room of the nuclear plant. There, he was thiking what to do now?
+He swiftly sprang into action, rushing to the central control room of the nuclear plant. There, he was thiking what to do now?The alien vessels drew closer, Dr. Leon realized that the power plant's reactors were the primary target of the aliens. The aliens aimed to harness the nuclear energy for their own mysterious purposes. Understanding the situtaion danger , Dr. Leon brainstormed a plan to fight against the aliens.
 
-The alien vessels drew closer, Dr. Leon realized that the power plant's reactors were the primary target of the aliens. The aliens aimed to harness the nuclear energy for their own mysterious purposes. Understanding the situtaion danger , Dr. Leon brainstormed a plan to fight against the aliens.
-
-They reinforced the plant's defenses and erected an impenetrable force field around the facility, rendering it invisible to the alien sensors.
-
-Nuclear plant is loaded with full of radioactive stuff and the green color is the schema of the radioactive liquid that can be very harmfull This radioactive liquid can spread quickly and contaminate the environment this is the thing that aliens want 
+They reinforced the plant's defenses and erected an impenetrable force field around the facility, rendering it invisible to the alien sensors.Nuclear plant is loaded with full of radioactive stuff and the green color is the schema of the radioactive liquid that can be very harmfull This radioactive liquid can spread quickly and contaminate the environment this is the thing that aliens want 
 
 ![6](https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/92930f17-a2c9-427b-ad92-7f8bf2dc2862)
 
