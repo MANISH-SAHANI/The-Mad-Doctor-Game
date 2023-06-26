@@ -1,7 +1,8 @@
 
 <h1 align="center" >The Mad Doctor Game🕹️🌀 </h1>
 
-<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/67ea9dd6-c2e1-4b5c-9bed-9b5a88b6e29f" alt="Logo" width="850" /></h1>
+<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/a25c6a4c-53cb-4aef-ae35-b17c822bd8a9" alt="Logo" width="850" /></h1>
+
 
 <h2> Story⚡⚡</h2>
 
@@ -17,13 +18,13 @@ They reinforced the plant's defenses and erected an impenetrable force field aro
 
 Nuclear plant is loaded with full of radioactive stuff and the green color is the schema of the radioactive liquid that can be very harmfull This radioactive liquid can spread quickly and contaminate the environment this is the thing that aliens want 
 
-![6](https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/d68fdb85-96ab-4de9-bbf5-8104548cd799)
+![6](https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/92930f17-a2c9-427b-ad92-7f8bf2dc2862)
 
 Nuclear plant has the large passage the aliens. He is fighting bravely in order to protect the nuclear plant and the people living nearby. The aliens are determined to take over the nuclear plant, but he is determined to stop them. He is risking his life to protect his people and the nuclear plant. He must succeed or all will be lost.
 
 Recently, Dr. Leon was working on a gun with all the powerful technology that can handle anything ,with that gun and full of courage he loaded the gun and leaved the control room to fight against the aliens alone . He was the only one who can save the town and the world from the aliens. He was determined to protect the people he cared about and the world from the aliens. He knew that he could be the one to make a difference. He held the gun tightly and marched forward to face the aliens.
 
-![8](https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/055051a4-5525-42de-b4cc-c1bae55a11e5)
+![8](https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/ecb8cba6-978f-49c9-b329-c019a77ba381)
 
 Dr. Leon with his armor under his coat, the weapons and the harshless loaded gun. He was ready to protect the people of the city from the evil forces that were coming. He had to be prepared for everything, even if it meant risking his own life. He was determined to save the town  
 
