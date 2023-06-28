@@ -1,8 +1,7 @@
 
 <h1 align="center" >The Mad Doctor Game🕹️🌀 </h1>
 
-<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/a25c6a4c-53cb-4aef-ae35-b17c822bd8a9" alt="Logo" width="850" /></h1>
-
+<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/e5a3206b-c5bd-48c5-8320-1ef5d270f86a" alt="Logo" width="850" /></h1>
 
 <h2> Story⚡⚡</h2>
 
