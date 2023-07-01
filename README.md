@@ -26,6 +26,9 @@ Dr. Leon with his armor under his coat, the weapons and the harshless loaded gun
 All the aliens saw Dr.Leon all of the were heading toward him to kill will he going to survive? In the game, you must fight against all the alien enemies to save the nuclear power plant and the town.
 
 
+<h2> Movements :</h2>
+WASD keys or arrow keys can be used to move the player, and K is used to fire ‎️‍🔥 not this the bullets 😂😂
+
 <h2> Do you want to download the game? 💫 </h2>
 
 You can easily download the .zip file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run Mad Doctor.exe and you are ready to play. Enjoy!
