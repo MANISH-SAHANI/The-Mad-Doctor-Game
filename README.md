@@ -28,7 +28,7 @@ All the aliens saw Dr.Leon all of the were heading toward him to kill will he go
 
 <h2> Do you want to download the game? 💫 </h2>
 
-You can easily download the .zip file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run Kitchen Chaos.exe and you are ready to play. Enjoy!
+You can easily download the .zip file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run Mad Doctor.exe and you are ready to play. Enjoy!
 
 
 
