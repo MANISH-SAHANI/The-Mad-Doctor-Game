@@ -1,8 +1,7 @@
 
 <h1 align="center" >The Mad Doctor Game🕹️🌀 </h1>
 
-<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/a25c6a4c-53cb-4aef-ae35-b17c822bd8a9" alt="Logo" width="850" /></h1>
-
+<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/e5a3206b-c5bd-48c5-8320-1ef5d270f86a" alt="Logo" width="850" /></h1>
 
 <h2> Story⚡⚡</h2>
 
@@ -10,13 +9,9 @@ Once upon a time, in the peaceful town of Oakville, renowned scientist Dr.Leon w
 
 One evening, as the sun🌞 began to set, a series of strange lights appeared in the sky above Oakville. Within moments, the lights transformed into alien spacecraft🛸, coming towards the town. Panic spread among the townspeople, and chaos ensued.
 
-He swiftly sprang into action, rushing to the central control room of the nuclear plant. There, he was thiking what to do now?
+He swiftly sprang into action, rushing to the central control room of the nuclear plant. There, he was thiking what to do now?The alien vessels drew closer, Dr. Leon realized that the power plant's reactors were the primary target of the aliens. The aliens aimed to harness the nuclear energy for their own mysterious purposes. Understanding the situtaion danger , Dr. Leon brainstormed a plan to fight against the aliens.
 
-The alien vessels drew closer, Dr. Leon realized that the power plant's reactors were the primary target of the aliens. The aliens aimed to harness the nuclear energy for their own mysterious purposes. Understanding the situtaion danger , Dr. Leon brainstormed a plan to fight against the aliens.
-
-They reinforced the plant's defenses and erected an impenetrable force field around the facility, rendering it invisible to the alien sensors.
-
-Nuclear plant is loaded with full of radioactive stuff and the green color is the schema of the radioactive liquid that can be very harmfull This radioactive liquid can spread quickly and contaminate the environment this is the thing that aliens want 
+They reinforced the plant's defenses and erected an impenetrable force field around the facility, rendering it invisible to the alien sensors.Nuclear plant is loaded with full of radioactive stuff and the green color is the schema of the radioactive liquid that can be very harmfull This radioactive liquid can spread quickly and contaminate the environment this is the thing that aliens want 
 
 ![6](https://github.com/MANISH-SAHANI/The-Mad-Doctor-Game/assets/91081774/92930f17-a2c9-427b-ad92-7f8bf2dc2862)
 
@@ -31,9 +26,12 @@ Dr. Leon with his armor under his coat, the weapons and the harshless loaded gun
 All the aliens saw Dr.Leon all of the were heading toward him to kill will he going to survive? In the game, you must fight against all the alien enemies to save the nuclear power plant and the town.
 
 
+<h2> Movements :</h2>
+WASD keys or arrow keys can be used to move the player, and K is used to fire ‎️‍🔥 not this the bullets 😂😂
+
 <h2> Do you want to download the game? 💫 </h2>
 
-You can easily download the .zip file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run Kitchen Chaos.exe and you are ready to play. Enjoy!
+You can easily download the .zip file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run Mad Doctor.exe and you are ready to play. Enjoy!
 
 
 
